@@ -1,3 +1,32 @@
 .my-classes {
-    background-color: cadetblue;
+    background-color: rgb(153, 199, 235);
+    border-style: solid;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: rgb(204, 211, 217);
+    border-right-color: rgb(204, 211, 217);
+    border-width: 15px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#header-bar {
+    padding: 15px;
+    color: white;
+}
+
+body {
+    background-color: rgb(109, 180, 234);
+    color: rgb(109, 180, 234);
+}
+
+#input {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#submit {
+    color: rgb(109, 180, 234);
+    background-color: rgb(203, 234, 255);
 }
